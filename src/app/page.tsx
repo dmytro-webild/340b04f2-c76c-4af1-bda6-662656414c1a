@@ -100,15 +100,15 @@ export default function LandingPage() {
       useInvertedBackground={true}
       products={[
         {
-          id: "p1",          name: "طقم جلوس فاخر",          price: "السعر عند الطلب",          imageSrc: "http://img.b2bpic.net/free-photo/side-view-sterling-silver-ring-with-diamonds-with-burning-decorative-candle-heart-shape-black-wall_140725-12842.jpg",          imageAlt: "طقم جلوس فاخر"},
+          id: "p1",          name: "طقم جلوس فاخر",          price: "السعر عند الطلب",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EuSBkemDAIzXy4q8Sr1L5pGAHr/uploaded-1781028735585-cd4o0fp5.jpg",          imageAlt: "طقم جلوس فاخر"},
         {
-          id: "p2",          name: "طاولة قهوة بتصميم فريد",          price: "السعر عند الطلب",          imageSrc: "http://img.b2bpic.net/free-photo/portrait-beautiful-fashion-stylish-brunette-woman-model-with-evening-makeup-red-lips-white-jacket_158538-11531.jpg",          imageAlt: "طاولة قهوة بتصميم فريد"},
+          id: "p2",          name: "طاولة قهوة بتصميم فريد",          price: "السعر عند الطلب",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EuSBkemDAIzXy4q8Sr1L5pGAHr/uploaded-1781028735585-uos6wgw5.jpg",          imageAlt: "طاولة قهوة بتصميم فريد"},
         {
-          id: "p3",          name: "سرير ملكي",          price: "السعر عند الطلب",          imageSrc: "http://img.b2bpic.net/free-photo/wedding-rings-decorated-nest-with-greenery-white-ribbon_8353-9808.jpg",          imageAlt: "سرير ملكي"},
+          id: "p3",          name: "سرير ملكي",          price: "السعر عند الطلب",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EuSBkemDAIzXy4q8Sr1L5pGAHr/uploaded-1781028735585-0e9x6fpl.jpg",          imageAlt: "سرير ملكي"},
         {
-          id: "p4",          name: "خزانة ملابس أنيقة",          price: "السعر عند الطلب",          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-white-khoncha-with-chocolates_140725-7640.jpg",          imageAlt: "خزانة ملابس أنيقة"},
+          id: "p4",          name: "خزانة ملابس أنيقة",          price: "السعر عند الطلب",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EuSBkemDAIzXy4q8Sr1L5pGAHr/uploaded-1781028735585-3tdo5xn1.jpg",          imageAlt: "خزانة ملابس أنيقة"},
         {
-          id: "p5",          name: "كرسي بذراعين كلاسيكي",          price: "السعر عند الطلب",          imageSrc: "http://img.b2bpic.net/free-photo/wireless-earphones-creative-collage_23-2149378055.jpg",          imageAlt: "كرسي بذراعين كلاسيكي"},
+          id: "p5",          name: "كرسي بذراعين كلاسيكي",          price: "السعر عند الطلب",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EuSBkemDAIzXy4q8Sr1L5pGAHr/uploaded-1781028735585-n9sr6j9r.jpg",          imageAlt: "كرسي بذراعين كلاسيكي"},
         {
           id: "p6",          name: "مكتب تنفيذي فخم",          price: "السعر عند الطلب",          imageSrc: "http://img.b2bpic.net/free-photo/serious-caucasian-girl-posing-dark-wall-shooting-with-european-lady_197531-13996.jpg",          imageAlt: "مكتب تنفيذي فخم"},
         {
@@ -185,7 +185,7 @@ export default function LandingPage() {
         variant: "sparkles-gradient"}}
       tag="تواصل معنا"
       title="قم بزيارة صالات العرض لدينا وامتلك قطعة أبدية"
-      description="اكتشف الأثاث المصمم ليصبح جزءًا من إرثك في مواقعنا الحصرية في جميع أنحاء مصر. احجز موعدًا خاصًا لتجربة رفاهية شخصية.\n\n**الفروع الرئيسية:** القصر للأثاث، القصر للمفروشات، ElKasr Furniture - القصر للموبيليا\n\n**ساعات العمل:**\nالاثنين – السبت: 11:30 صباحًا – 10:00 مساءً\nالجمعة: 12:30 مساءً – 10:00 مساءً\nالأحد: مغلق\n*(قد تختلف الساعات حسب الفرع)*"
+      description="اكتشف الأثاث المصمم ليصبح جزءًا من إرثك في مواقعنا الحصرية في جميع أنحاء مصر. احجز موعدًا خاصًا لتجربة رفاهية شخصية.\n\n**الفروع الرئيسية:** القصر للأثاث، القصر للمفروشات، ElKasr Furniture - القصر للموبيليا\n\n**ساعات العمل:**\nالاثنين – السبت: 11:30 صباحًا – 10:00 مساءً\nالجمعة: 12:30 مساءً – 10:00 مساءً\nالأحد: مغلق\n*(قد تختلف الساعات حسب الفرع)"
       imageSrc="http://img.b2bpic.net/free-photo/vintage-modern-restaurant-with-full-comfort_140725-9761.jpg"
       imageAlt="تصميم داخلي فاخر لمتجر أثاث القصر مع عروض أنيقة"
       mediaAnimation="opacity"
